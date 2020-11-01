@@ -36,7 +36,6 @@ As a start I used the project Kiero : https://github.com/rdbo/ImGui-DirectX-9-Ki
         }
         
         
-// something like that
 ![Ekran Alıntısı](https://user-images.githubusercontent.com/50587074/97797058-524a5100-1c22-11eb-8244-4860c4e15d57.PNG)
 
             
